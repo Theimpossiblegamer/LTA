@@ -1,0 +1,4 @@
+<p id="days">50000</p>
+<p id="date">31 Jan 2017</p>
+<p id="lostTime">1000</p>
+<p id="nrAccidents">5000</p>
